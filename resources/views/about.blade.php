@@ -1,4 +1,4 @@
-@extends('layouts.blanding')
+@extends('layouts.landing')
 
 
 @section('title', 'about')
